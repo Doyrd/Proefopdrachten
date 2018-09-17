@@ -1,6 +1,5 @@
 # Proefopdrachten
 
-## Intro
 Hier zullen al mijn proefopdrachten te vinden zijn.
 
 # Proefopdracht 3 procedurally​ ​generated​ ​dungeon
