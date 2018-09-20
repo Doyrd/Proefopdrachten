@@ -25,6 +25,7 @@ Mijn uiteindelijke beslissing was toch om de Unity game-engine te gaan gebruiken
 Ook was mijn uiteindelijke beslissing overwogen vanwege de eerder benoemde redenen.
 
 ## Leerdoelen
+- Het kunnen maken van een random dungeon generator algorithme in de Unity game-engine.
 - Het kunnen begrijpen hoe een random dungeon generator werkt.
 - Het kunnen begrijpen hoe ik perlin noise zou kunnen toepassen in een random dungeon generator.
 
@@ -32,7 +33,7 @@ Ook was mijn uiteindelijke beslissing overwogen vanwege de eerder benoemde reden
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | test test
+|week 1 | Documentatie gereed maken en introductie project | --- | Start van Unity project |
 |week 2 |
 
 ## Bronnen
