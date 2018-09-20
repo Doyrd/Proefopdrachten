@@ -31,7 +31,7 @@ Ook was mijn uiteindelijke beslissing overwogen vanwege de eerder benoemde reden
 ## Planning
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| test | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 |week 1 | test test
 |week 2 |
 
