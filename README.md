@@ -12,13 +12,13 @@ Deze proefopdracht bestaat uit het maken van level genereer algoritme voor een r
 
 ## Software Anaylse
 Mijn eerste initiatief was om de Unity game-engine te gaan gebruiken. Reden hiervan ligt bij de ervaring, comfortabelheid en de informatie die hier over te vinden is.
-Via research ben ik er achtergekomen dat de GameMaker game-engine ook een relevantie optie is. Dit omdat de game-engine veel mogelijkheid aanbied en er veel informatie over te vinden is.
+Via research ben ik er achtergekomen dat de GameMaker game-engine ook een relevante optie is. Dit omdat de game-engine veel mogelijkheiden aanbied en er veel informatie over te vinden is.
 
-Voor het gebruiken van de Unity game-engine:      heb ik kennis nodig van C#.
-Voor het gebruiken van de GameMaker game-engine:  heb ik kennis nodig van de GameMaker Language (GML).
+Voor het gebruiken van de Unity game-engine:      heb ik kennis nodig van C#. <br/>
+Voor het gebruiken van de GameMaker game-engine:  heb ik kennis nodig van de GameMaker Language (GML). <br/>
 (Beide beheers ik op een redelijk niveau, maar heb meer ervaring met C#).
 
-Mijn uiteindelijke beslissing was toch om de Unity game-engine te gaan gebruiken, graag omdat ik de random dungeon generator algoritme wil leren maken in de game-engine.
+Mijn uiteindelijke beslissing was om de Unity game-engine te gaan gebruiken, graag omdat ik de random dungeon generator algoritme wil leren maken in deze specifieke game-engine.
 Ook was mijn uiteindelijke beslissing overwogen vanwege de eerder benoemde redenen.
 
 ## Leerdoelen
