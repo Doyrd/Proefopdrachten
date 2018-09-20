@@ -9,7 +9,7 @@ De bedoeling is dat het een spel wordt die bij elke opstart of herstart, een een
 
 De gegeven tips zijn: <br/>
 Je kan gebruik maken van 'programmeer graphics' voor de graphische vormgeving. <br/>
-Je kan met behulp van Perlin Noise een roguelike level kunnen maken. 
+Je kan met behulp van Perlin Noise een roguelike level maken.
 
 ## Features
 
