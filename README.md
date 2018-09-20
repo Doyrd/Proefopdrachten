@@ -5,17 +5,17 @@ Hier zullen al mijn proefopdrachten te vinden zijn.
 # Proefopdracht 3 random dungeon generator
 
 Deze proefopdracht is gekozen uit een tiental proefopdrachten en bestaat uit het maken van level genereer algoritme voor een roguelike 2D random generated dungeon game.
-De bedoeling is dat het een spel wordt die bij elke opstart of herstart, een een nieuw level lay-out is/heeft.
+Het spel moet bij elke opstart of herstart een nieuw level lay-out hebben.
 
 De gegeven tips zijn: <br/>
 Je kan gebruik maken van 'programmeer graphics' voor de graphische vormgeving. <br/>
 Je kan met behulp van Perlin Noise een roguelike level maken.
 
-## Features
+## Kenmerken
 
 - [Usage of invoke](https://docs.unity3d.com/ScriptReference/MonoBehaviour.Invoke.html)
 
-## Software Anaylse
+## Software anaylse
 Mijn eerste initiatief was om de Unity game-engine te gaan gebruiken. Reden hiervan ligt bij de ervaring, comfortabelheid en de informatie die hier over te vinden is.
 Via research ben ik er achtergekomen dat de GameMaker game-engine ook een relevante optie is. Dit omdat de game-engine veel mogelijkheiden aanbied en er veel informatie over te vinden is.
 
