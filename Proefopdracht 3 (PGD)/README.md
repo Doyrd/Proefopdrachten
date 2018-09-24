@@ -15,8 +15,8 @@ Je kan met behulp van Perlin Noise een roguelike level maken.
 Mijn eerste initiatief was om de Unity game-engine te gaan gebruiken. Reden hiervan ligt bij de ervaring, comfortabelheid en de informatie die hier over te vinden is.
 Uit research ben ik er achtergekomen dat de GameMaker game-engine ook een relevante optie is. Dit omdat de game-engine veel mogelijkheiden aanbied en er veel informatie over te vinden is.
 
-Voor het gebruiken van de Unity game-engine:      heb ik kennis nodig van C#. <br/>
-Voor het gebruiken van de GameMaker game-engine:  heb ik kennis nodig van de GameMaker Language (GML). <br/>
+Voor het gebruiken van de Unity game-engine heb ik: kennis nodig van C#. <br/>
+Voor het gebruiken van de GameMaker game-engine heb ik: kennis nodig van de GameMaker Language (GML). <br/>
 (Beide beheers ik op een redelijk niveau, maar heb meer ervaring met C#).
 
 Mijn uiteindelijke beslissing was om de Unity game-engine te gaan gebruiken, graag omdat ik de random dungeon generator algoritme wil leren maken in deze specifieke game-engine.
@@ -25,14 +25,14 @@ Ook was mijn uiteindelijke beslissing overwogen vanwege de eerder benoemde reden
 ## Leerdoelen
 - Het kunnen maken van een random dungeon generator algoritme in de Unity game-engine.
 - Het kunnen begrijpen hoe een random dungeon generator werkt.
-- Het kunnen begrijpen hoe ik perlin noise zou kunnen toepassen in een random dungeon generator.
+- Het kunnen begrijpen hoe perlin noise toegepast zou kunnen worden in een random dungeon generator.
 
 ## Planning
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | Documentatie gereed maken, introductie proefopdrachten en start van Unity project |  | Begin maken van algoritme en basis game eisen. | Documentatie aanvullen en verder met algoritme. | Algoritme verbeteren en documentatie emenderen. |
-|week 2 |
+|week 2 | Verbreding van spel en extra onderzoek naar software. |
 
 ## Bronnen
 
