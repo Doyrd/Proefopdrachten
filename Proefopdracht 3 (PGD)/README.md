@@ -32,7 +32,7 @@ Ook was mijn uiteindelijke beslissing overwogen vanwege de eerder benoemde reden
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | Documentatie gereed maken, introductie proefopdrachten en start van Unity project |  | Begin maken van algoritme en basis game eisen. | Documentatie aanvullen en verder met algoritme. | Algoritme verbeteren en documentatie emenderen. |
-|week 2 | Verbreding van spel en extra onderzoek naar software. |
+|week 2 | Verbreding van spel en extra onderzoek naar software. | Spel afronden en vereiste onderdelen afchecken. | Documentatie afronden en vereiste onderdelen inleveren. | Reflecteren en project pagina op portfolio creeëren en afronden. | Inleveren van de portfolio pagina en reflectie formulier. |
 
 ## Bronnen
 
