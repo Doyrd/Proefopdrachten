@@ -1,4 +1,4 @@
-# Proefopdracht 3 inventory system
+# Proefopdracht 11 inventory system
 
 ## Kenmerken
 
