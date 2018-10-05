@@ -6,13 +6,13 @@ Deze proefopdracht is gekozen uit een tiental proefopdrachten en bestaat uit het
 
 ## Software anaylse
 
-Voor deze proefopdracht is het mij gegeven om de keuze te maken van oop (object geörienteerd programmeren) taal.
+Voor deze proefopdracht is het mij gegeven om de keuze te maken van oop (object geörienteerd programmeren) taal. <br/>
 Door deze gegeven keuze liggen de mogelijkheiden van game-engine erg hoog.
 
 Persoonlijke mogelijkheiden van game-engine: Unity, GameMaker, MonoGame en Unreal Engine.
 
 De keuze van de Unity game-engine is er optioneel. De benodigde tijd zal efficiënt gebruik kunnen worden dit vanwege de persoonlijke ervaring,
-kennis van C# en de informatie te vinden van deze engine in combinatie met de proefopdracht.
+kennis van C# en de informatie die te vinden is van de engine in combinatie met de proefopdracht.
 
 ## Leerdoelen
 
