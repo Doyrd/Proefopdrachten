@@ -23,7 +23,7 @@ ervaring kunnen opdoen van de game-engine zelf. Wat ook geschikte tijd nodig hee
 De keuze van de Unreal Engine is erg ondergeschikt. Dit ervaring en kennis met de game-engine en de programmeertaal C++ zijn
 erg ondergeschikt, omdat hier simpelweg geen persoonlijke ervaring mee is.
 
-Ook is het uitbreiden van mijn kennis met de Unity game-engine erg relevant voor toekomst doelen.
+Ook is het uitbreiden van mijn kennis met de Unity game-engine erg relevant voor toekomst doelen en toekomstige stage.
 
 ## Leerdoelen
 
@@ -34,7 +34,7 @@ Ook is het uitbreiden van mijn kennis met de Unity game-engine erg relevant voor
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
+|week 1 | Keuze van proefopdracht maken en daarbij onderzoek/proef doen naar de mogelijke bruikbare game-engines. | Definitief besluit maken van game-engine. | Start van het project met de gekozen game-engine en hier op reflecteren. | Reflectie en voorheen gedaande onderzoek/proef omzetten in de software analyse. | 
 |week 2 |
 
 ## Bronnen
