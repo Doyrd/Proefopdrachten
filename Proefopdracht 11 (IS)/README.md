@@ -28,13 +28,13 @@ Ook is het uitbreiden van mijn kennis met de Unity game-engine erg relevant voor
 ## Leerdoelen
 
 - Het kunnen maken van een inventaris systeem in de Unity game-engine.
-- Het kunnen begrijpen user interface prencipes.
+- Het kunnen begrijpen van user interface prencipes.
 
 ## Planning
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | Keuze van proefopdracht maken en daarbij onderzoek/proef doen naar de mogelijke bruikbare game-engines. | Definitief besluit maken van game-engine. | Start van het project met de gekozen game-engine en hier op reflecteren. | Reflectie en voorheen gedaande onderzoek/proef omzetten in de software analyse. | 
+|week 1 | Keuze van proefopdracht maken en daarbij onderzoek/proef doen naar de mogelijke bruikbare game-engines. | Definitief besluit maken van game-engine. | Start van het project met de gekozen game-engine en hier op reflecteren. | Reflectie en voorheen gedaande onderzoek/proef omzetten in de software analyse. |
 |week 2 |
 
 ## Bronnen
