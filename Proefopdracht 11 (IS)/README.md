@@ -28,25 +28,25 @@ erg matig. Hiervoor een leerproces te nemen zou te veel tijd kosten.
 Hierbij sluit ik mijn uiteindelijk keuze voor game-engine aan bij die van Unity.
 
 Overigens is het uitbreiden van mijn kennis met de Unity game-engine erg relevant voor toekomst doelen en toekomstige stages.
-Zo is het maken van een inventory system in de Unity game-engine erg leerzaam en zeker herbruikbaar in de toekomst.
+Zo is het maken van een inventaris systeem in de Unity game-engine erg leerzaam en zeker herbruikbaar in de toekomst.
 
 ## Leerdoelen
 
 - Het kunnen maken van een flexibel en herbruikbaar inventaris systeem in de Unity game-engine.
 - Het kunnen begrijpen van user interface prencipes.
 - Het kunnen schrijven van code die zorgvuldig en gemakkelijk te lezen is voor optimale functionaliteit en herbuikbaarheid.
-- Het kunnen demonstreren van een gepolishde inventory system via een mini-game.
+- Het kunnen demonstreren van een gepolishde inventaris systeem via een mini-game.
 
 ## Planning
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | Keuze van proefopdracht maken en daarbij onderzoek/proef doen naar de mogelijke bruikbare game-engines. | Definitief besluit maken van game-engine. | Start van het project met de gekozen game-engine en hier op reflecteren. Reflecteren op basis user interface en inventory system mechanic (items opslaan en verwijderen). | Reflectie en voorheen gedaande onderzoek/proef omzetten in de software analyse. | Inventory system afronden (opslaan en verwijder functie, display van hoeveelheid, drag and drop functie en basis UI elementen).   
-|week 2 | Code afronden (leesbaar en herbruikbaar maken). | Inventory system omzetten in mini-game (het kunnen oppakken van items en het kunnen combineren van items). | Inventory system laten testen op alle benoemde functies en het inleveren van het inventaris systeem. | Software analyse hervatten en corrigeren. | Het inleveren van de overige documentatie (Software analyse, code en reflectie) |
+|week 1 | Keuze van proefopdracht maken en daarbij onderzoek/proef doen naar de mogelijke bruikbare game-engines. | Definitief besluit maken van game-engine. | Start van het project met de gekozen game-engine en hier op reflecteren. Reflecteren op basis user interface en inventaris systeem mechanic (items opslaan en verwijderen). | Reflectie en voorheen gedaande onderzoek/proef omzetten in de software analyse. | Inventaris systeem afronden (opslaan en verwijder functie, display van hoeveelheid, drag and drop functie en basis UI elementen).   
+|week 2 | Code afronden (leesbaar en herbruikbaar maken). | Inventaris systeem omzetten in mini-game (het kunnen oppakken van items en het kunnen combineren van items). | Inventaris systeem laten testen op alle benoemde functies en het inleveren.| Software analyse hervatten en corrigeren. | Het inleveren van de overige documentatie (software analyse, code en reflectie) |
 
 ## Bronnen
 
-- [Inventory system video tutorial](https://www.youtube.com/watch?v=w6_fetj9PIw)
+- [inventory system video tutorial](https://www.youtube.com/watch?v=w6_fetj9PIw)
 - [JSON inventory system video tutorial](https://www.youtube.com/watch?v=ZW6RCKVnqT4&list=PLivfKP2ufIK78r7nzfpIEH89Nlnb__RRG)
 - [Unity inventory system video tutorial](https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/inventory)
 - [Inventory system global design](https://gamedevelopment.tutsplus.com/articles/designing-an-rpg-inventory-system-that-fits-preliminary-steps--gamedev-14725)
