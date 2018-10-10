@@ -46,7 +46,7 @@ Zo is het maken van een inventaris systeem in de Unity game-engine erg leerzaam 
 
 ## Bronnen
 
-- [inventory system video tutorial](https://www.youtube.com/watch?v=w6_fetj9PIw)
+- [Inventory system video tutorial](https://www.youtube.com/watch?v=w6_fetj9PIw)
 - [JSON inventory system video tutorial](https://www.youtube.com/watch?v=ZW6RCKVnqT4&list=PLivfKP2ufIK78r7nzfpIEH89Nlnb__RRG)
 - [Unity inventory system video tutorial](https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/inventory)
 - [Inventory system global design](https://gamedevelopment.tutsplus.com/articles/designing-an-rpg-inventory-system-that-fits-preliminary-steps--gamedev-14725)
