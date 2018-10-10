@@ -41,8 +41,8 @@ Zo is het maken van een inventaris systeem in de Unity game-engine erg leerzaam 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | Keuze van proefopdracht maken en daarbij onderzoek/proef doen naar de mogelijke bruikbare game-engines. | Definitief besluit maken van game-engine. | Start van het project met de gekozen game-engine en hier op reflecteren. Reflecteren op basis user interface en inventaris systeem mechanic (items opslaan en verwijderen). | Reflectie en voorheen gedaande onderzoek/proef omzetten in de software analyse. | Inventaris systeem afronden (opslaan en verwijder functie, display van hoeveelheid, drag and drop functie en basis UI elementen).   
-|week 2 | Code afronden (leesbaar en herbruikbaar maken). | Inventaris systeem omzetten in mini-game (het kunnen oppakken van items en het kunnen combineren van items). | Inventaris systeem laten testen op alle benoemde functies en het inleveren.| Software analyse hervatten en corrigeren. | Het inleveren van de overige documentatie (software analyse, code en reflectie) |
+|week 1 | Keuze van proefopdracht maken en daarbij onderzoek/proef doen naar de mogelijke bruikbare game-engines. | Start van het project met de gekozen game-engine en hier op reflecteren. Reflecteren op basis user interface en inventaris systeem mechanic (items opslaan en verwijderen). | Definitief besluit maken van game-engine. | Reflectie en voorheen gedaande onderzoek/proef omzetten in de software analyse. | Inventaris systeem afronden (opslaan en verwijder functie, display van hoeveelheid, drag and drop functie en basis UI elementen).   
+|week 2 | Code afronden (leesbaar en herbruikbaar maken). | Inventaris systeem omzetten in mini-game (het kunnen oppakken van items en het kunnen combineren van items). | Inventaris systeem laten testen op alle benoemde functies en het inleveren hiervan.| Software analyse hervatten en corrigeren. | Het inleveren van de overige documentatie (software analyse, code en reflectie). |
 
 ## Bronnen
 
