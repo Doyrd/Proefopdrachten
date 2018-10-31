@@ -15,10 +15,11 @@ Deze proefopdracht is gekozen uit een tiental proefopdrachten en bestaat uit het
 
 - Het aanleggen van een basis begrip voor augmented reality.
 - Het aanleren van begrippen en kennis die relevant zijn voor toekomstige doelen en stages.
+- Het omzetten van feedback in een verbeterde augmented reality ervaring.
 - Het kunnen omgaan met een SDK en hiermee augmented reality games maken.
 - Het kunnen relativeren van SDK en/of ontwikkelomgeving.
-- Het omzetten van feedback in een verbeterde augmented reality ervaring.
-
+- Het kunnen implementren van een augmented realiy concept binnen de gameplay.
+- Het kunnen maken van een demo video.
 
 ## Planning
 
