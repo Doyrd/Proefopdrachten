@@ -10,6 +10,26 @@ Deze proefopdracht is gekozen uit een tiental proefopdrachten en bestaat uit het
 
 ## Software anaylse
 
+Voor deze proefopdracht moest een er uitgebreid onderzoek gedaan worden.
+Dit vanwege de hoeveelheid nieuwe kennis en mogelijkheden.
+
+Persoonlijke mogelijkheden van game-engine: Unity, GameMaker, MonoGame en Unreal Engine.
+
+De keuze van de Unity game-engine is erg optioneel. De benodigde tijd zal efficiënt gebruikt kunnen worden, dit vanwege de persoonlijke ervaring, kennis van C# en de informatie die te vinden is van de game-engine in combinatie met de proefopdracht.
+
+De keuze van de GameMaker game-engine is voor reden vatbaar, maar ben ik minder bekend mee. Voor de benodigde tijd zal er ruimte gemaakt moeten woorden voor het opfrissen van de GameMaker Language en het aanleren van nieuwe kennis. Dit is dus geen efficiënte optie.
+
+De keuze van de MonoGame game-engine ligt daar in tegen wel geschikt. Dit omdat de engine, zoals Unity, ook gebruik maakt van de programmeertaal C#. Helaas is het wel zo dat ik geen ervaring met deze game-engine heb, wat mijn proces tijd kan kosten.
+
+De keuze van de Unreal Engine is erg ondergeschikt. De ervaring en kennis met deze game-engine en de programmeertaal C++ zijn erg matig. Hiervoor een leerproces te nemen zou te veel tijd kosten.
+
+Hierbij sluit ik mijn uiteindelijk keuze voor game-engine aan bij die van Unity.
+
+Overigens is het uitbreiden van mijn kennis met de Unity game-engine erg relevant voor toekomst doelen en toekomstige stages. Zo is het maken van een inventaris systeem in de Unity game-engine erg leerzaam en zeker herbruikbaar in de toekomst.
+
+Persoonlijke mogelijkheden van augmented reality tool kit: onbekend.
+
+[Augmented reality onderzoek]
 
 ## Leerdoelen
 
