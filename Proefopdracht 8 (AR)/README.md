@@ -45,7 +45,7 @@ Persoonlijke mogelijkheden van augmented reality tool kit: onbekend.
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |   
+|week 1 |
 |week 2 |
 
 ## Bronnen
