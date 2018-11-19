@@ -12,7 +12,7 @@ Deze proefopdracht is gekozen uit een tiental proefopdrachten en bestaat uit het
 
 ## Software anaylse
 
-Voor deze proefopdracht moest een er kort onderzoek gedaan worden.
+Voor deze proefopdracht moest er een kort onderzoek gedaan worden.
 Dit vanwege de al eerdere ervaring met shaders en hierin lessen gehad te hebben.
 
 Persoonlijke mogelijkheden van game-engine: Unity, GameMaker, MonoGame en Unreal Engine.

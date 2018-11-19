@@ -8,4 +8,6 @@ Voltooide proefopdracht: [proefopdracht 11 inventory system](https://github.com/
 <br/>
 Voltooide proefopdracht: [proefopdracht 8 augmented reality game](https://github.com/Doyrd/Proefopdrachten/tree/master/Proefopdracht%208%20(AR)).
 </br>
-Huidige proefopdracht: [proefopdracht 1 shaders](https://github.com/Doyrd/Proefopdrachten/tree/master/Proefopdracht%201%20(S)).
+Voltooide proefopdracht: [proefopdracht 1 shaders](https://github.com/Doyrd/Proefopdrachten/tree/master/Proefopdracht%201%20(S)).
+</br>
+Huidige proefopdracht: [proefopdracht 10 virtual reality interface](https://github.com/Doyrd/Proefopdrachten/tree/master/Proefopdracht%2010%20(VR)).
