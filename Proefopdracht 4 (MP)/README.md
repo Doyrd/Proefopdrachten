@@ -7,9 +7,9 @@ Het verwachte resultaat luid als volgt: 'een PC unity build van een simpel
 
 ## Kenmerken
 
-- []()
-- []()
-- []()
+- [NetworkManager](https://docs.unity3d.com/ScriptReference/Networking.NetworkManager.html)
+- [Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html)
+- [NetworkTransport](https://docs.unity3d.com/ScriptReference/Networking.NetworkTransport.html)
 
 ## Software anaylse
 
@@ -36,7 +36,9 @@ de opdracht besloten ontwikkelomgeving, Unity 5.
 ## Bronnen
 
 - [Multiplayer aanwijzingen](https://docs.unity3d.com/Manual/UNetOverview.html)
-- ['How to make a game like Pong in Unity 5' tutorial series](https://www.youtube.com/watch?v=ztOV-GqjTOM&list=PLiRrp7UEG13a3aiu4G09ygfdb-NV7Op7C)
-- ['How to make a 2D Game - Unity 4.3 course' tutorial series](https://www.youtube.com/watch?v=9h-z0AyG42k&list=PLPV2KyIb3jR4_IYZY2V0G3IUYcx1zZkJe)
-- ['Unity Pong Game in 20 minutes' tutorial video](https://www.youtube.com/watch?v=1oY--Zk9b6w)
-- ['Multiplayer Pong Unity' tutorial series](https://www.youtube.com/watch?v=1fFdYzGm78U&list=PLVcHD3Lkf4Uab7Nle6GPdJk7qK2KnOL11)
+- [Tutorial series: 'Multiplayer Pong Unity'](https://www.youtube.com/watch?v=1fFdYzGm78U&list=PLVcHD3Lkf4Uab7Nle6GPdJk7qK2KnOL11)
+- [Tutorial series: 'How to make a game like Pong in Unity 5'](https://www.youtube.com/watch?v=ztOV-GqjTOM&list=PLiRrp7UEG13a3aiu4G09ygfdb-NV7Op7C)
+- [Tutorial series: 'How to make a 2D Game - Unity 4.3 course'](https://www.youtube.com/watch?v=9h-z0AyG42k&list=PLPV2KyIb3jR4_IYZY2V0G3IUYcx1zZkJe)
+- [Tutorial video: 'Unity Pong Game in 20 minutes'](https://www.youtube.com/watch?v=1oY--Zk9b6w)
+- [Tutorial video: 'UNET basics - How to get started with Unity3D Networking'](https://www.youtube.com/watch?v=0H_ikQp9aTI)
+- [Tutorial stream: 'Unity Multiplayer (UNET) - Transport Layer API'](https://www.youtube.com/watch?v=qGkkaNkq8co)
