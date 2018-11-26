@@ -30,12 +30,7 @@ de opdracht besloten ontwikkelomgeving, Unity 5.
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-| week 1 | Keuze maken van proefopdracht. Keuze van proefopdracht testen op mogelijkheden. Het testen van:
-- Pong mechanics,
-- UNET kennis,
-- multiplayer functie,
-- invoer latency,
-- concept bruikbaarheid | | | | |
+| week 1 | Keuze maken van proefopdracht. Keuze van proefopdracht testen op mogelijkheden. Het testen van: Pong mechanics, UNET kennis, multiplayer functie, invoer latency, concept bruikbaarheid. Deze testen omzetten in een software analyse. | | | | |
 | week 2 | | | | | |
 
 ## Bronnen
