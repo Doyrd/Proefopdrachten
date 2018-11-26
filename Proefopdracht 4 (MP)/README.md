@@ -2,6 +2,7 @@
 
 De proefopdracht is gekozen uit een tiental proefopdrachten en bestaat uit het maken van een multiplayer Pong game in de Unity 5 ontwikkelomgeving.
 </br>
+</br>
 Het verwachte resultaat luid als volgt: 'een PC unity build van een simpele multiplayer Pong game, waarbij je tegen een menselijke  tegenstander kunt spelen die op een andere computer speelt. Op de server moet de input van beide  spelers gesynchroniseerd worden zodat de latency minimaal is.'
 
 ## Kenmerken
